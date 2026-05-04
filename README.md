@@ -2,6 +2,14 @@
 
 Generate custom Kumon-style math worksheets for any level and topic! This tool uses AI to generate problems and creates professionally formatted worksheets with front and back pages that match Kumon's design style.
 
+Todo:
+add these data sources
+| Source           | Nature              | Best For                                      |
+| ---------------- | ------------------- | --------------------------------------------- |
+| MathGenerator    | Algorithmic         | Endless, randomized, rapid-fire speed drills. |
+| DeepMind Dataset | Massive Static Bank | Diverse, curriculum-aligned problems (2M+).   |
+| OpenSAT/GSM8K    | Human-Authored      | Realistic standardized test patterns.         |
+
 ## Features
 
 - 🎯 **All Kumon Levels**: Support for Levels 6A through O
